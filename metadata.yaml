@@ -1,0 +1,55 @@
+_repo: The-Circus-and-Other-Essays-and-Fugitive-Pieces_39103
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Holliday, Robert Cortes
+    birthdate: 1880
+    deathdate: 1947
+    gutenberg_agent_id: '5191'
+    url: http://www.gutenberg.org/2009/agents/5191
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kilmer, Joyce
+    alias: Kilmer, Alfred Joyce
+    birthdate: 1886
+    deathdate: 1918
+    gutenberg_agent_id: '149'
+    url: http://www.gutenberg.org/2009/agents/149
+    wikipedia: http://en.wikipedia.org/wiki/Joyce_Kilmer
+description: 'The circus, and other essays: The circus ; The abolition of poets ;
+  Noon-hour adventuring ; Signs and symbols ; The great nickel adventure ; The urban
+  chanticleer ; Daily traveling ; Incongruous New York ; In memorium, John Bunny ;
+  The day after Christmas -- Fugitive pieces: The ashman ; The bear that walks like
+  a man ; Absinthe at the Cheshire Cheese ; Japanese lacquer ; Sappho rediviva ; The
+  poetry of Gerard Hopkins ; Philosophical tendencies in English literature ; Two
+  lectures on English poetry: The ballad, The sonnet ; Gilbert K. Chesterton and his
+  poetry ; Lionel Johnson, Ernest Dowson, Aubrey Beardsley ; Swinburne and Francis
+  Thompson ; A note on Thomas Hardy ; Madison Julius Cawein ; Francis Thompson ; John
+  Masefield ; William Vaughn Moody.'
+gutenberg_issued: '2012-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39103'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'American essays'
+- !lcc 'PS'
+tableOfContents: 'The circus, and other essays: The circus. The abolition of poets.
+  Noon-hour adventuring. Signs and symbols. The great nickel adventure. The urban
+  chanticleer. Daily traveling. Incongruous New York. In memorium, John Bunny. The
+  day after Christmas -- Fugitive pieces: The ashman. The bear that walks like a man.
+  Absinthe at the Cheshire Cheese. Japanese lacquer. Sappho rediviva. The poetry of
+  Gerard Hopkins. Philosophical tendencies in English literature. Two lectures on
+  English poetry: The ballad, The sonnet. Gilbert K. Chesterton and his poetry. Lionel
+  Johnson, Ernest Dowson, Aubrey Beardsley. Swinburne and Francis Thompson. A note
+  on Thomas Hardy. Madison Julius Cawein. Francis Thompson. John Masefield. William
+  Vaughn Moody.'
+title: The Circus, and Other Essays and Fugitive Pieces
+url: http://www.gutenberg.org/ebooks/39103
